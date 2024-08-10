@@ -5,7 +5,7 @@ import Navbar from './component/Navbar'
 import Textform from './component/Textform'
 import Alert from './component/Alert'
 // import { type } from '@testing-library/user-event/dist/type'
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+// import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 
 
